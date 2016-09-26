@@ -4,4 +4,3 @@ $aa = phpinfo();
 
 /* ewrerthyhj */
 
-rgerry
